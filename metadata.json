@@ -1,0 +1,7 @@
+{
+  "name": "GenericMed",
+  "description": "Multi-tenant generic medicine price-comparison marketplace platform with seller KYC verification, prescription fulfillment workbench, catalog moderation, and customer price comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
